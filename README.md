@@ -28,6 +28,21 @@ Launch with:
 
 You need some configuration before starting Jupyter notebook remotely. See [Running a notebook server](http://jupyter-notebook.readthedocs.io/en/stable/public_server.html).
 
+### Libraries
+
+To ensure the project runs correctly, ensure you have the following libraries installed:
+
+    - pandas
+    - numpy
+    - requests
+    - os
+    - tweepy
+    - json
+    - datetime
+    - seaborn
+    - polynomial
+    - matplotlib
+    
 ### Opening the notebook
 
 Once Jupyter is running in your browser, find and open the wrangle_act.ipynb file.
